@@ -1,5 +1,5 @@
 # GMM_guassian_mixture_model_to_ATAC-SEQ
-Using a GMM model to separate reads from ATAC-seq experiment in diferent categories.  
+Using a GMM model to separate ATAC-seq reads in diferent nucleosome categories.  
 
 <img src='atac_seq_lucas.png'>
 ATAC-seq data can present reads with diferent lenghts. This variance between the lenghts has different biological implications. 
